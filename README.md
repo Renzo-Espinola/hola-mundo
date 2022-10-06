@@ -8,4 +8,5 @@ agrego una linea mas
 
 Nueva linea clase 05/10/2022
 
-clase 7 commit en nueva rama
+
+linea agregada para pull request clase 7
